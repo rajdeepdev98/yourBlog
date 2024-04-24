@@ -1,0 +1,2 @@
+# yourBlog
+A blogging platform
